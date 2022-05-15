@@ -13,10 +13,14 @@ Este repositorio contendrá todo el material relacionado al curso de Computo Mó
 
 A continuación tiene un acceso directo a las actividades:
 
-* [¿Qué es DevOps? - Tarea 1](tareas/TAREA1/Tarea1_DevOps_Martinez_Martinez_Yanni.pdf)
+* [¿Qué es DevOps? - Tarea 1](Tareas/Tarea1/Tarea1_DevOps_Martinez_Martinez_Yanni.pdf)
 
 * [Video DevOps](tareas/TAREA2/)
 
-* [App: The human history - Analysis](tareas/TAREA3/tarea3_analisis_documental.pdf)
+* [App: The human history - Analysis](Tareas/TAREA3/tarea3_analisis_documental.pdf)
+
+* [Radiografía de una applicación](https://github.com/YanniMartinez/Computo-Movil/blob/main/Tareas/TAREA4/Radiograf%C3%ADa%20App%20BBVA.pdf)
+
+* [Experiencia buscando empleo](Tareas/TAREA5/T5_CV_Solicitud_de_empleo.pdf)
 
 <div><img src="https://images.unsplash.com/photo-1423784346385-c1d4dac9893a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" width="1000px"></div>
